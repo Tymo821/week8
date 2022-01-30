@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(2, 2, 92);
+}
+h1{ 
+    background:green;
+    text-align: center;
+    color: rgb(2, 2, 92);
+    border-style: double;
+    border-width: 10px;
+    border-radius: 5px;
+    height: 75px;
+} 
+div{
+    background-color: khaki;
+    text-align: center;
+}
+p{
+    color: coral;
+    text-align: left;
+
+}
+h2{
+    color: green;
+    text-align: left;
+}
+ul{
+    color:coral;
+    text-align: left;
+}
+.dogImg{
+    height: 400px;
+    width: 600px; 
+}
+.contactTable{
+    color: coral;
+}
+.contactImg{
+    height: 200px;
+    width: 300px;
+}
+.dogEating{
+    height: 250px;
+    width: 300px;
+}
